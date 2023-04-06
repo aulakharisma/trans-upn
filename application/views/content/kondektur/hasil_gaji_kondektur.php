@@ -1,0 +1,1 @@
+<p>gaji yang diterima driver hari itu adalah : Rp<?= $hasil ?></p>
